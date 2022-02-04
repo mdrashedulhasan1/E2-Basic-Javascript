@@ -1,0 +1,12 @@
+var price1 = 10;
+var price2 = 3;
+var add = price1+price2;
+var sub = price1-price2;
+var multi = price1*price2;
+var div = price1/price2;
+var rem = price1%price2;
+console.log("Add two number:",add);
+console.log("Sub two number:",sub);
+console.log("Multi two number:",multi);
+console.log("Div two number:",div);
+console.log("Rem two number:",rem);
